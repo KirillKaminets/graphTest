@@ -1,0 +1,38 @@
+/* .table-block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-y: auto;
+    overflow-x: auto;
+}
+
+tbody {
+    display: block;
+    padding-top: 85px;
+}
+
+.thead-fixed{
+    position: fixed;
+}
+
+
+
+.table {
+    display: block;
+    height: 230px;
+} */
+
+.table-primary {
+    text-align: center;
+    border: solid;
+    vertical-align: middle
+}
+
+td {
+    text-align: center;
+    vertical-align: middle
+}
+
+
+
